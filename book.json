@@ -9,6 +9,7 @@
     "ruleSearchAuthor": "//span[4]",
     "ruleSearchKind": "//span[1]",
     "ruleSearchState": "//span[7]",
+    "ruleSearchIntro": "",
     "ruleSearchCoverUrl": "",
     "ruleBookName": "//div[@id='info']/h1",
     "ruleBookAuthor": "//div[@id='info']/p[1]",
