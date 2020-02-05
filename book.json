@@ -30,8 +30,8 @@
       "ruleBookCoverUrl": "",
       "ruleBookAuthor": "",
       "ruleBookKind": "",
-      "ruleBookState": "",
-      "ruleBookLastChapter": "/html/body/div[2]/div[4]/div[2]/em/p[4]/a/span",
+      "ruleBookState": "//span[@class='serial']",
+      "ruleBookLastChapter": "//div[@id='detaillist']/ul/li[1]/a/b",
       "ruleBookIntro": ""
     },
     "chapterRule": {
