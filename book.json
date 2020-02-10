@@ -199,7 +199,7 @@
   {
     "bookSourceName": "卡夜阁so",
     "bookSourceUrl": "https://www.kygso.com",
-    "weight": 70,
+    "weight": 60,
     "searchRule": {
       "requestMethod": "",
       "encode": "",
