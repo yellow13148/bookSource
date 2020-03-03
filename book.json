@@ -1641,56 +1641,5 @@
       "params": {},
       "ruleChapterContent": "//div[@id='content']"
     }
-  },
-  {
-    "bookSourceName": "卡夜阁so",
-    "bookSourceUrl": "https://www.kygso.com",
-    "weight": 60,
-    "searchRule": {
-      "requestMethod": "",
-      "encode": "",
-      "encodeParams": "",
-      "params": {
-        "searchkey": "%@"
-      },
-      "ruleSearchUrl": "https://www.kygso.com/search/result.html",
-      "ruleSearchList": "//div[@class='relative pt-rank']/div[@class='pt-rank-detail']",
-      "ruleBookName": "//span[@class='fl mr60']/a",
-      "ruleBookCoverUrl": "//a/img",
-      "ruleBookAuthor": "//span[@class='mr30']/a",
-      "ruleBookKind": "//span[@class='fl color7']/span[2]/a",
-      "ruleBookState": "",
-      "ruleBookLastChapter": "",
-      "ruleBookIntro": "//div[@class='compulsory-row fl w100 color5 desc']"
-    },
-    "detailRule": {
-      "requestMethod": "",
-      "encode": "",
-      "encodeParams": "",
-      "params": {},
-      "ruleBookName": "",
-      "ruleBookCoverUrl": "",
-      "ruleBookAuthor": "",
-      "ruleBookKind": "",
-      "ruleBookState": "",
-      "ruleBookLastChapter": "/html/body/div[4]/div[2]/div/div[4]/a/span",
-      "ruleBookIntro": "",
-      "ruleChapterListUrl": ""
-    },
-    "chapterRule": {
-      "requestMethod": "",
-      "encode": "",
-      "encodeParams": "",
-      "params": {},
-      "ruleChapterList": "//div[@class='pt-chapter-cont-detail full']/a",
-      "ruleChapterName": "//a"
-    },
-    "chapterContentRule": {
-      "requestMethod": "",
-      "encode": "",
-      "encodeParams": "",
-      "params": {},
-      "ruleChapterContent": "//html/body/div[4]/div[2]/div[2]"
-    }
   }
 ]
